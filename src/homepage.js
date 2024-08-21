@@ -62,7 +62,7 @@ const Homepage = () => {
                             Software Engineer
                         </div>
                         <div className='hero-support-text fade-up' data-animate='fade-up' style={{transitionDelay: '.5s'}}>
-                            React front-end developer with extensive 3+ years of experience building websites and web applications using React JS, JavaScript tools/frameworks & CSS. Proficient in architectural design & skilled in responsive layouts.
+                            React front-end developer with extensive 2+ years of experience building websites and web applications using React JS, JavaScript tools/frameworks & CSS. Proficient in architectural design & skilled in responsive layouts.
                         </div>
 
                         <div style={{display:'flex', alignItems: 'center'}}>
@@ -74,7 +74,7 @@ const Homepage = () => {
                             
 
                             <div className='hero-support-text fade-up' data-animate='fade-up' style={{transitionDelay: '.6s', fontWeight: 600}}>
-                                Get in touch:  <a className="contact-highlight" target='_blank' href={`mailto:${'k.charan2099@gmail.com'}`}>k.charan2099@gmail.com</a>
+                                Get in touch:  <a className="contact-highlight" target='_blank' href={`mailto:${'sscharan2001@gmail.com'}`}>sscharan2001@gmail.com</a>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@ const Homepage = () => {
 
             <div class="nav-left fade-in" data-animate='fade-in' style={{transitionDelay: '.7s'}}>
                 <div class="nav-left-item">
-                <div class="copyright nav-email">charanformail@gmail.com</div>
+                <div class="copyright nav-email">sscharan2001@gmail.com</div>
                 </div>
                 <div class="nav-line"></div>
             <div class="nav-left-item nav-copyright"><div class="copyright">©/2024</div></div></div>

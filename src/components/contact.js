@@ -6,7 +6,7 @@ const Contact = () => {
         <div className="contact">
             Designed and developed by Sri Sai Charan K
             <div class="social-icons-btn">
-            <a class="icons mail" target="_blank"  href={`mailto:${'k.charan2099@gmail.com'}`}>
+            <a class="icons mail" target="_blank"  href={`mailto:${'sscharan2001@gmail.com'}`}>
                 <ion-icon name="mail-outline"></ion-icon>
             </a>
             <a class="icons github" target="_blank" href="https://github.com/sricharan18">
